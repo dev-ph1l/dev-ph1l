@@ -1,8 +1,5 @@
 [![Hi there, I'm dev-ph1l!](banner-devph1l.png)](#)
 
-<h2 align="center">:open_file_folder: Projects</h2>
-- Working on <a href="https://github.com/ocean-cms/ocean-cms">Ocean CMS</a>, an easy-to-use, fast, static cms for the modern web
-
 <br><br>
 <h2 align="center">:computer: Languages & Frameworks</h2>
 
